@@ -7,4 +7,4 @@ MyBinder link:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beerMT/jarmJupy/main)
 
 ## Short Screen Capture of Docker Spin-up Process and JARM Query
-<img src="./jarmJupy2.gif" alt="Sample JARM Query" height="300">
+<img src="./jarmJupy2.gif" alt="Sample JARM Query" height="400">
